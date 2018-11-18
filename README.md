@@ -1,6 +1,7 @@
-# page-lab-sampledata
+# PageLab sample data
 
 This is a sample Django data dump for the https://github.com/IBM/page-lab project. 
+
 It contains 50 URLs, each with ~13 test runs.
 
 - Clone/download the JSON file.
